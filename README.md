@@ -1,6 +1,12 @@
 # Movie Site
 Source code for a Movie Trailer website.
 
+Download the sources from GitHub and place all files in the same directory.
+
+You will need a webbrowser and an installation of Python 2.7
+You can get it here:
+https://www.python.org/download/releases/2.7/
+
 
 How to change the movies on your site:
 
